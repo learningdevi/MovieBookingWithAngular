@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Z0AfoREq+IjQxRSU7yfIn5Y3M8f4i+a+HXOfEhXrz04=",
+  "Source": "Microsoft.MovieBooking.Concert",
+  "BasePath": "_content/Microsoft.MovieBooking.Concert",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

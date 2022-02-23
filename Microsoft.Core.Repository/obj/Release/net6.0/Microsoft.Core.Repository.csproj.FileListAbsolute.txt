@@ -1,0 +1,14 @@
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.Repository\bin\Release\net6.0\Microsoft.Core.Repository.deps.json
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.Repository\bin\Release\net6.0\Microsoft.Core.Repository.runtimeconfig.json
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.Repository\bin\Release\net6.0\Microsoft.Core.Repository.dll
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.Repository\bin\Release\net6.0\ref\Microsoft.Core.Repository.dll
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.Repository\bin\Release\net6.0\Microsoft.Core.Repository.pdb
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.Repository\obj\Release\net6.0\Microsoft.Core.Repository.csproj.AssemblyReference.cache
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.Repository\obj\Release\net6.0\Microsoft.Core.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.Repository\obj\Release\net6.0\Microsoft.Core.Repository.AssemblyInfoInputs.cache
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.Repository\obj\Release\net6.0\Microsoft.Core.Repository.AssemblyInfo.cs
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.Repository\obj\Release\net6.0\Microsoft.Core.Repository.csproj.CoreCompileInputs.cache
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.Repository\obj\Release\net6.0\Microsoft.Core.Repository.dll
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.Repository\obj\Release\net6.0\ref\Microsoft.Core.Repository.dll
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.Repository\obj\Release\net6.0\Microsoft.Core.Repository.pdb
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.Repository\obj\Release\net6.0\Microsoft.Core.Repository.genruntimeconfig.cache

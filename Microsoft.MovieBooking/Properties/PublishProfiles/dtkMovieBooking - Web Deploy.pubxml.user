@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAmDvw2C0Xjk6QDt4Mj2a1kQAAAAACAAAAAAAQZgAAAAEAACAAAACr7UEJ4v2mPKQraRt4jbGZCNouaeZK5BLgwfOJ0RLB+gAAAAAOgAAAAAIAACAAAACKz15+7pL4rLf+OV5lBnuWJJYo1ipikPK+msTkoVFpB4AAAAAuLI5VzsUX17CrVYwusUSBuaVdvWVnCAZ5qq2NsZV9sGIUqISl9RYCOMvjE5oJauLFMylms6oovsccszFKzNq/2Ru6OA/zzVhbncsykqXCMF1AixICk4gBi4jMFh0BGbZxExFFTdf/v06AnOdyZp97RvQpHNcUdM434xhP1I7ca0AAAABDTNa+0fNXdxwjwodxzmO/RG3iogBE+H0CHH9vNbGly6kO9piCNMfxa17lMscffQNiKWFz2rhDe6J+NZRXn2EH</EncryptedPassword>
+    <History>True|2022-02-16T07:51:26.8881399Z;True|2022-02-14T17:19:32.1354370+05:30;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="MovieDB">
+      <Value>Server=.\SQLEXPRESS%3bDatabase=MovieBooking%3bTrusted_Connection=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

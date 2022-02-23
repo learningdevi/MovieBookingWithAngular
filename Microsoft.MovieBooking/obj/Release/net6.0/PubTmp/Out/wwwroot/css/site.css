@@ -1,0 +1,41 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.seatAvailable {
+    background: url(../Content/Image/SeatAvailable.png) no-repeat top left;
+    display: block;
+    width: 90px;
+    height: 80px;    
+}
+
+.seatBlocked {
+    background: url(../Content/Image/SeatBlocked.png) no-repeat top left;
+    display: block;
+    width: 90px;
+    height: 80px;
+    text-indent: -9999px; /* hides the link text */
+}
+
+.seatChoosed {
+    background: url(../Content/Image/SeatChoosed.png) no-repeat top left;
+    display: block;
+    width: 90px;
+    height: 80px;
+    text-indent: -9999px; /* hides the link text */
+}

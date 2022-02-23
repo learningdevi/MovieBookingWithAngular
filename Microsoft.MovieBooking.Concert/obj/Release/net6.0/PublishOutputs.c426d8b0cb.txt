@@ -1,0 +1,11 @@
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.MovieBooking.Concert\obj\Release\net6.0\PubTmp\Out\Microsoft.MovieBooking.Concert.exe
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.MovieBooking.Concert\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.MovieBooking.Concert\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.MovieBooking.Concert\obj\Release\net6.0\PubTmp\Out\Microsoft.MovieBooking.Concert.dll
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.MovieBooking.Concert\obj\Release\net6.0\PubTmp\Out\Microsoft.MovieBooking.Concert.deps.json
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.MovieBooking.Concert\obj\Release\net6.0\PubTmp\Out\Microsoft.MovieBooking.Concert.runtimeconfig.json
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.MovieBooking.Concert\obj\Release\net6.0\PubTmp\Out\Microsoft.MovieBooking.Concert.pdb
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.MovieBooking.Concert\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.MovieBooking.Concert\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.MovieBooking.Concert\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.MovieBooking.Concert\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

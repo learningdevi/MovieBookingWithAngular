@@ -1,0 +1,33 @@
+﻿@model Microsoft.MovieBooking.Models.ShowsViewModel
+@{
+    ViewData["Title"] = "Shows Page";
+    var Shows = Model.ShowsMappers;
+}
+<div class="container-fluid text-center"> 
+    <div class = "row">
+        <div class = "col-sm-2 text-center" style = "background-color:lightgrey;font-size:large; color:red"> 
+            @Html.ActionLink("<- Movies","Movies","Movie")
+        </div>
+        <div  class = "col-sm-8 text-center" style = "background-color:lightgrey;font-size:large; color:red">
+            @Shows.First().Shows.Movie.MovieName <br/>
+            @Shows.First().Shows.Movie.Description <br/>
+        </div>       
+     </div> 
+    <div class = "row">
+        <div class = "col-sm-10 text-center" style = "background-color:white;font-size:large; color:red"> 
+           @foreach(var item in Shows)
+            {
+                <div style = "background-color:white;font-size:large; color:red">
+                @Html.ActionLink(item.Shows.Theatre.Name,"SeatMapper","Theatre",new{TheatreId = item.Shows.TheatreId,ShowTimingsId = item.Shows.ShowTimingsId,MovieId=item.Shows.MovieId,ShowMapperId=item.Shows.Id}) <br/>
+                        ShowDate: @Html.DisplayFor(modelItem => item.MovieShowDate) <br/>
+                        ShowTimings : @Html.DisplayFor(modelIetm=> item.Shows.ShowTimings.Timings)
+                </div>
+            }
+        </div>
+     </div> 
+     <div class = "row" hidden=@ViewBag.HideSeats>
+     <div class = "col-sm-10 text-center" style = "background-color:white;font-size:large; color:red"> 
+     @Html.Partial("_SeatMapper",Model)
+      </div>
+     </div> 
+</div>

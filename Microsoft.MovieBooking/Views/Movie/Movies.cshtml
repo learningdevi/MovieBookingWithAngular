@@ -1,0 +1,72 @@
+﻿@model Microsoft.MovieBooking.Models.MovieViewModel
+@{
+    ViewData["Title"] = "Movies Page";
+    var languages = Model.MovieLanguage;
+    var genres = Model.Genre;
+    var types = Model.MovieType;
+    var movies = Model.Movies;
+}
+
+<div class="container-fluid text-center"> 
+    <div class = "row">
+        <div class = "col-sm-2 text-center" style = "background-color:white;"> 
+            Filters
+            <div class = "text-center" style = "background-color:lightgrey;">
+                Language <br/>
+                @foreach(var item in languages)
+                {
+                    @Html.ActionLink(item.Language,"MoviesByLanguage","Movie",new{item.Language}) <br/>
+                }
+            </div>
+            <div class = "text-center" style = "background-color:lightgrey;">
+                Genres <br/>
+                 @foreach(var item in genres)
+                {
+                    @Html.ActionLink(item.Genres,"MoviesByGenres","Movie",new{item.Genres}) <br/>
+                }
+            </div>
+            <div class = "text-center" style = "background-color:lightgrey;"> 
+                Format <br/>
+                 @foreach(var item in types)
+                {
+                    @Html.ActionLink(item.Type,"MoviesByFormat","Movie",new{item.Type}) <br/>
+                }
+            </div>
+        </div>
+        <div class = "col-sm-10 text-center" style = "background-color:white;"> 
+            @if (movies.Count > 0)
+            {
+                foreach (var item in movies)
+                {
+                    var source = "/Content/Image/" + @item.MovieName?.Split(' ')[0] + ".jpg";
+                    <div class = "row">
+                        <div class = "col-sm-2" style = "background-color:lightgrey; color: white;">
+                            <img src=@source class="img-thumbnail" alt="Movie Photo" />
+                        </div>
+                        <div class = "col-sm-8" style = "background-color:lightblue; color: black;">
+                            <div>
+                                @Html.ActionLink(item.MovieName,"Shows","Theatre",new{item.Id}) 
+                            </div>
+                            <div>
+                                @Html.DisplayFor(modelItem => item.Description)
+                            </div>
+                            <div>
+                                @Html.DisplayFor(modelItem => item.Genres.Genres),
+                                @Html.DisplayFor(modelItem => item.Langauge.Language),
+                                @Html.DisplayFor(modelItem => item.Type.Type)
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <div class = "row">
+                        <div class = "col-sm-10" style = "background-color:white; color: red;">
+                        No movies found
+                        </div>
+                </div>
+            }
+        </div>
+   </div>
+</div>

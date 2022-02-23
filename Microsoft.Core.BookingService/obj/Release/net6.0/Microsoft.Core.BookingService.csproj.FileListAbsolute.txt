@@ -1,0 +1,15 @@
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.BookingService\bin\Release\net6.0\Microsoft.Core.BookingService.deps.json
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.BookingService\bin\Release\net6.0\Microsoft.Core.BookingService.dll
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.BookingService\bin\Release\net6.0\ref\Microsoft.Core.BookingService.dll
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.BookingService\bin\Release\net6.0\Microsoft.Core.BookingService.pdb
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.BookingService\bin\Release\net6.0\Microsoft.Core.Repository.dll
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.BookingService\bin\Release\net6.0\Microsoft.Core.Repository.pdb
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.BookingService\obj\Release\net6.0\Microsoft.Core.BookingService.csproj.AssemblyReference.cache
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.BookingService\obj\Release\net6.0\Microsoft.Core.BookingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.BookingService\obj\Release\net6.0\Microsoft.Core.BookingService.AssemblyInfoInputs.cache
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.BookingService\obj\Release\net6.0\Microsoft.Core.BookingService.AssemblyInfo.cs
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.BookingService\obj\Release\net6.0\Microsoft.Core.BookingService.csproj.CoreCompileInputs.cache
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.BookingService\obj\Release\net6.0\Microsoft.Core.BookingService.csproj.CopyComplete
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.BookingService\obj\Release\net6.0\Microsoft.Core.BookingService.dll
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.BookingService\obj\Release\net6.0\ref\Microsoft.Core.BookingService.dll
+C:\Work\PracticeApp\MovieBooking\MovieBooking\Microsoft.Core.BookingService\obj\Release\net6.0\Microsoft.Core.BookingService.pdb
